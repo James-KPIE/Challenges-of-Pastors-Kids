@@ -1,0 +1,249 @@
+<html lang="en">
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0000FF">
+    <meta name="msapplication-navbutton-color" content="#0000FF">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#0000FF">
+    <meta name="description" content="The Challenges of Pastors' Kids">
+    <meta name="author" content="Idowu James">
+    <link rel="stylesheet" type="text/css" href="css/app/boot.css">
+    <link rel="stylesheet" type="text/css" href="css/app/style.css">
+    <link href="css/app/navbar-fixed-top.css" rel="stylesheet">
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-md">
+      <div class="container">
+        <div class="navbar-header"> <button type="button" class="navbar-toggle sidebar-toggle left-menu-bar-btn">
+            <span class="icon-bar"> </span> <span class="icon-bar"> </span> <span
+              class="icon-bar"> </span> </button> <a href="index.html" class="transition">
+            <button type="button" class="navbar-toggle search-btn-onclick"> </button>
+          </a> <span class="navbar-brand" href="#"><img src="img/brand.png" class="img-responsive logo">
+          </span>
+          <div class="dropdown pull-right"> </div>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <aside id="sidebar" class="sidebar sidebar-default sidebar-fixed-left" role="navigation">
+      <div> <img src="img/brand-black.png" class="img-responsive left-logo"> </div>
+      <ul class="nav sidebar-nav">
+        <li> <a href="index.html" class="transition"> Home </a> </li>
+        <li> <a href="intro.html" class="transition"> Introduction </a> </li>
+        <li> <a href="aboutauthor.html" class="transition"> About Author </a>
+        </li>
+        <li> <a href="aboutbook.html" class="transition"> About The Book </a>
+        </li>
+        <li class="divider"><br>
+        </li>
+        <li class="dropdown"> <a class="ripple-effect dropdown-toggle" href="#"
+            data-toggle="dropdown"> Part One</a>
+          <ul class="dropdown-menu ac-act-dropdown-menu">
+            <li><a href="chapter1.html" class="transition">Chapter One</a></li>
+            <li><a href="chapter2.html" class="transition">Chapter Two</a></li>
+          </ul>
+        </li>
+        <li class="dropdown"> <a class="ripple-effect dropdown-toggle" href="#"
+            data-toggle="dropdown"> Part Two</a>
+          <ul class="dropdown-menu ac-act-dropdown-menu">
+            <li><a href="chapter3.html" class="transition">Chapter Three</a></li>
+            <li><a href="chapter4.html" class="transition">Chapter Four</a></li>
+            <li><a href="chapter5.html" class="transition">Chapter Five</a></li>
+            <li><a href="chapter6.html" class="transition">Chapter Six</a></li>
+            <li><a href="chapter7.html" class="transition">Chapter Seven</a></li>
+            <li><a href="chapter8.html" class="transition">Chapter Eight</a></li>
+          </ul>
+        </li>
+        <li class="dropdown"> <a class="ripple-effect dropdown-toggle" href="#"
+            data-toggle="dropdown"> Part Three</a>
+          <ul class="dropdown-menu ac-act-dropdown-menu">
+            <li><a href="chapter9.html" class="transition">Chapter Nine</a></li>
+            <li><a href="chapter10.html" class="transition">Chapter Ten</a></li>
+            <li><a href="chapter11.html" class="transition">Chapter Eleven</a></li>
+            <li><a href="chapter12.html" class="transition">Chapter Twelve</a></li>
+          </ul>
+        </li>
+        <li class="dropdown"> <a class="ripple-effect dropdown-toggle" href="#"
+            data-toggle="dropdown"> Part Four</a>
+          <ul class="dropdown-menu ac-act-dropdown-menu">
+            <li><a href="chapter13.html" class="transition">Chapter Thirteen</a></li>
+            <li><a href="chapter14.html" class="transition">Chapter Fourteen</a></li>
+            <li><a href="chapter15.html" class="transition">Chapter Fifteen</a></li>
+            <li><a href="chapter16.html" class="transition">Chapter Sixteen</a></li>
+            <li><a href="chapter17.html" class="transition">Chapter Seventeen</a></li>
+          </ul>
+        </li>
+        <li class="dropdown"> <a class="ripple-effect dropdown-toggle" href="#"
+            data-toggle="dropdown"> Part Five</a>
+          <ul class="dropdown-menu ac-act-dropdown-menu">
+            <li><a href="chapter18.html" class="transition">Chapter Eighteen</a></li>
+            <li><a href="chapter19.html" class="transition">Chapter Nineteen</a></li>
+            <li><a href="chapter20.html" class="transition">Chapter Twenty</a></li>
+            <li><a href="chapter21.html" class="transition">Chapter Twenty-One</a></li>
+            <li><a href="chapter22.html" class="transition">Chapter Twenty-Two</a></li>
+          </ul>
+        </li>
+        <li class="dropdown"> <a class="ripple-effect dropdown-toggle" href="#"
+            data-toggle="dropdown"> Appendix</a>
+          <ul class="dropdown-menu ac-act-dropdown-menu">
+            <li><a href="chapter23.html" class="transition">Chapter Twenty-Three</a></li>
+          </ul>
+        </li>
+      </ul>
+    </aside>
+    <div class="container">
+      <div class="row" style="margin-top:15px; padding:5px;">
+        <!-- Nav tabs -->
+        <div class="card">
+          <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active"><a href="#home" aria-controls="home"
+                role="tab" data-toggle="tab">Page 51</a></li>
+            <li role="presentation"><a href="#profile" aria-controls="profile" role="tab"
+                data-toggle="tab">Page <span style="color: #4285f4;">52</span></a></li>
+            <li role="presentation"><a href="#messages" aria-controls="messages"
+                role="tab" data-toggle="tab">Page <span style="color: #4285f4;">53</span></a></li>
+            <li role="presentation"><a href="#settings" aria-controls="settings"
+                role="tab" data-toggle="tab">Page <span style="color: #4285f4;">54</span></a></li>
+          </ul>
+        </div>
+        <!-- Tab panes -->
+        <div class="tab-content">
+          <div role="tabpanel" class="tab-pane active" id="home">
+            <h2>Chapter Fourteen - THE LOVE LIFE OF<br>
+              A PREACHER’S KID</h2>
+            <p style="text-align: center;"><code><i><u>A Word Of Advice For The
+                    Preacher’s Kid</u></i></code></p>
+            <p style="text-align: justify;"><code></code><br>
+            </p>
+            <div style="text-align: left;"> One other major challenge you can
+              have as a Pastor’ Kid, which if you do not carefully handle can
+              cause a major friction between you and your parents is in the
+              choice of a life partner. Your marital life is not only of
+              interest to you, it is also of vital interest to your parents and
+              ultimately to God. So, you need to take serious care before making
+              a choice. The greatest challenge in making a choice may likely
+              come from your parents, although they have good intentions. Aside
+              your parents and God, everyone in church also feels they have a
+              say in your relationship. All the elders and other pastors in the
+              church begin to think that you need their endorsements before
+              going ahead to ask for the hand of the person you love in
+              marriage. It is even possible that some of them, because of your
+              familiarity with them, begin to recommend a spouse for you,
+              despite the fact that they never lived a day of their lives with
+              you to know your likes and dislikes. So many factors should be of
+              great consideration in the final choice of who to marry, because
+              you are now, in a sense, a public figure in your own little
+              domain. Some of them are very important while some of them are of
+              less importance and looks quite insignificant but still carries
+              some weight in your final decision. More often than not, these
+              factors which you feel are really not important may be the major
+              determinant of your preacher parent's acceptability of your choice
+              in marriage. One of such is in the relational attitude of your
+              spouse-to-be with other members of the church. A partner that
+              lives a controversial life or has personal issues or unresolved
+              crisis with a number of people in your father’s ministry or one
+              whose lifestyle and beliefs contradicts what your father preaches
+              may pose a serious threat to the success of your relationship than
+              one who has a better relationship with others and who has a
+              supportive doctrinal beliefs with your father, especially if you
+              have been groomed to take over the ministry after your parents!
+              Whatever choice you make, always take it to God in prayers for
+              confirmations before proceeding with your desires. The place of
+              God's will cannot be downplayed. You are a minister's child, and
+              should be careful of choosing for yourself. Allow God to lead you
+              in making a choice. Every time a man makes choices outside God, he
+              bears the consequences of his decisions alone. But if he is led by
+              God, he makes the best choice of all available options. WHAT TO
+              LOOK OUT FOR IN YOUR CHOICE OF A LIFE PARTNER 1. SPIRITUAL
+              MATURITY The number one requirement of the spouse of a Pastor’s
+              Kid is that he/she must be spiritually sound. This is more
+              important than every other, especially if you have a soft spot for
+              the ministry and may likely end up therein in the future. Whoever
+              must be your spouse must have a balanced spiritual life; anything
+              less than this may spark a lot of controversies between you and
+              your preacher parents. 2. LOVE The place of love cannot be
+              overemphasized. You must love whoever you are going to marry. You
+              should be careful not to fall into the temptation of getting
+              engaged to someone who meets all of the qualifications of the
+              church’s marriage committee but meets very few or none of yours.
+              You know what you want, and you should be in the best place to
+              decide who you want. Do not be forced into someone else’s mode. Do
+              not let someone cage you with the idea of "the will of God". If
+              love is not there, it cannot be God, because God is love. Even if
+              your parents make recommendations, make sure you are in love with
+              their choice for you, or simply turn the offer down respectively.
+              Undertaking the task of searching for a spouse that will meet the
+              qualification of, and that will be loved by every single person in
+              your parent’s ministry, may make marriage become next to
+              impossible. What is important is that you both love yourself. It
+              does not matter who else in church that does not! 3. BEAUTY Beauty
+              is a major factor when making your considerations. You sure do not
+              want to marry someone who is neither appealing to you in your
+              privacy nor presentable to others at your public events. Although,
+              all of God’s creations are beautiful, but not all of these
+              beautiful ones looks beautiful to everyone; because beauty, as you
+              know, is in the eyes of the beholder. So you must make sure that
+              the person of your choice is beautiful in your eyes, and for
+              peace’s sake, in your parents’. 4. CHARACTER Sincerely speaking,
+              most Pastors’ Kids will not have any issue with marrying a
+              physically attractive spouse. By the virtue of their position in
+              and relevance to the church, they naturally attract to themselves
+              some of the most beautiful members of the opposite sex in their
+              father’s church, their father’s friends’ churches or in their
+              immediate community. </div>
+          </div>
+          <div role="tabpanel" class="tab-pane" id="profile">
+            <h2>Chapter Three - UNREALISTIC EXPECTATIONS</h2>
+            <p align="justify"> </p>
+            <p align="justify"> </p>
+            <p align="justify"> </p>
+            <p align="justify"> </p>
+            <p align="justify"> </p>
+          </div>
+          <div role="tabpanel" class="tab-pane" id="messages">
+            <h4>THE OUTCOME, A PROFESSIONAL PHARISEE</h4>
+            <p align="justify"> </p>
+            <p align="justify"> </p>
+            <p align="justify"> </p>
+            <p align="justify"> </p>
+            <p align="justify"> </p>
+          </div>
+          <div role="tabpanel" class="tab-pane" id="settings">
+            <h2>Build Up Your Spiritual Life</h2>
+            <p align="justify"> </p>
+            <p align="justify"> </p>
+            <p align="justify"> </p>
+            <p align="justify"> </p>
+            <p align="justify"> </p>
+          </div>
+        </div>
+        <!-- Nav tabs -->
+        <div class="card">
+          <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active"><a href="#home" aria-controls="home"
+                role="tab" data-toggle="tab">Page 51</a></li>
+            <li role="presentation"><a href="#profile" aria-controls="profile" role="tab"
+                data-toggle="tab">Page 52</a></li>
+            <li role="presentation"><a href="#messages" aria-controls="messages"
+                role="tab" data-toggle="tab">Page <span style="color: #4285f4;">53</span></a></li>
+            <li role="presentation"><a href="#settings" aria-controls="settings"
+                role="tab" data-toggle="tab">Page <span style="color: #4285f4;">54</span></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- Card Projects -->
+    <!--
+        <div class="col-md-6 col-md-offset-3">            <div class="card">			<iframe src="boldchildschool.com" height="650px" frameborder="0" width="100%"></iframe>                <div class="card-image">                    <img class="img-responsive" src="img/follow.png">                    <span class="card-title">Material Cards</span>                </div>                                <div class="card-content">                    <p>Cards for display in portfolio style material design by Google.</p>                </div>                                <div class="card-action">                    <a href="#" target="new_blank">Link</a>                    <a href="#" target="new_blank">Link</a>                    <a href="#" target="new_blank">Link</a>
+                    <a href="#" target="new_blank">Link</a>                    <a href="#" target="new_blank">Link</a>                </div>            </div>        </div>                  <div class="col-md-4 col-md-offset-4">        <div class="material-button-anim">          <ul class="list-inline" id="options">            <li class="option">              <button class="material-button option1" type="button">                <span class="fa fa-phone" aria-hidden="true"></span>              </button>            </li>            <li class="option">              <button class="material-button option2" type="button">
+                <span class="fa fa-envelope-o" aria-hidden="true"></span>              </button>            </li>            <li class="option">              <button class="material-button option3" type="button">                <span class="fa fa-pencil" aria-hidden="true"></span>              </button>            </li>          </ul>          <button class="material-button material-button-toggle" type="button">            <span class="fa fa-plus" aria-hidden="true"></span>          </button>        </div>      </div>                   </div>
+      </div>      <div class="modal fade" id="contact" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style=" z-index:999999999 !important">         <div class="modal-dialog" role="document">            <div class="modal-content">               <div class="modal-header">                  <h4 class="modal-title" id="myModalLabel">Contact Us</h4>               </div>               <div class="modal-body" align="center">                  <h5>Designed By Sharda Enterprises</h5>                  <h6>Powered By fastlearning.in</h6>               </div>               <div class="modal-footer"> <button type="button" class="close-btn" data-dismiss="modal">Close</button> </div>            </div>         </div>      </div>	  -->
+    <script src="js/app/jquery.min.js"></script>
+    <script src="js/app/custom.js"></script>
+    <script src="js/app/bootstrap.min.js"></script>
+  </body>
+</html>
